@@ -4,3 +4,6 @@
 
 ###### This is an H6 header (smallest)
 
+## Sumary
+
+This repository contains all of the notes taken by [Nicholas Wiebe] for the Lighthouse Labs Web Development Bootcamp.
