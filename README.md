@@ -7,3 +7,6 @@
 ## Sumary
 
 This repository contains all of the notes taken by [Nicholas Wiebe] for the Lighthouse Labs Web Development Bootcamp.
+
+
+...taken by [Nick](https://github.com/nicholasrwx) for the...
